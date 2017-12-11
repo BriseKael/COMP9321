@@ -11,6 +11,15 @@ This project aims to give students hands-on experience in:
 
 The theme of assignment will be oriented around social media sites, similar to Facebook. Your assignment is to design and implement a web application that allows facilitating the creation and sharing of information, limited the website's membership to UNSW students. We call this social media Website UNSWBook.
 
+Requirements:
+-----
+Eclipse EE Oxygen   
+Java 1.8
+Apache Tomcat 9.0   
+Jstl 1.2  
+Postgresql 9.6  
+Bootstrap   
+
 Link:
 -----
 https://www.youtube.com/watch?v=rM54bVtksa8
